@@ -1,6 +1,6 @@
 [
- { 
-      {
+    { 
+      
         "nombre": 9,
         "geoUbicacion": [
             [
@@ -71,7 +71,7 @@
                         "updatedAt": "2023-11-01T12:47:15.826Z",
                         "insumos": [
                             {
-				"idCultivo": "865f2df3-b89b-4961-810c-0931e39c064e",
+				                "idCultivo": "865f2df3-b89b-4961-810c-0931e39c064e",
                                 "nombre": "Cereza",
                                 "stock": 999,
                                 "stockUtilizado": 891,
@@ -83,10 +83,9 @@
                                 },
                                 "categoria": {
                                     "nombre": "Semillas"
-                                },
-                                    "stockUtilizado": 60,
                                 }
-                            }
+                                }
+                            
                         ],
                         "empleados": []
                     }
@@ -124,10 +123,10 @@
             -66.09604597091676
         ],
         "area": 3.53,
-	"isActive": false,
+	    "isActive": false,
         "createdAt": "2023-10-31T14:23:53.574Z",
         "updatedAt": "2023-11-01T12:41:44.149Z",
         "cultivos": []
     }
-  }
+  
 ]
